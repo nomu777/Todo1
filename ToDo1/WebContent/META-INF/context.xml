@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context>
+  <Resource
+      driverClassName="com.mysql.jdbc.Driver"
+      initialSize="1"
+      maxIdle="1"
+      maxWaitMillis="-1"
+      name="jdbc/localDB"
+      auth="Container"
+      type="javax.sql.DataSource"
+      url="jdbc:mysql://localhost:3306/todo_list?useUnicode=true&amp;characterEncoding=UTF-8"
+      connectionProperties="autoReconnect=true;verifyServerCertificate=false;useSSL=false;requireSSL=false"
+      username="root"
+      password="nomu777"
+      defaultAutoCommit="false"
+      validationQuery="select 1"
+  />
+ </Context>
