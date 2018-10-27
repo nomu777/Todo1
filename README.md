@@ -5,16 +5,16 @@ I created and improved it by referring to Reference book below.
 
 # Usage
 1. Install eclipse from following website (version:4.6 Neon):
-> http://mergedoc.osdn.jp
+*http://mergedoc.osdn.jp*
 
-2.Clone application:
->> $ git clone https://github.com/nomu777/Todo1.git
+2. Clone application:
+`$ git clone https://github.com/nomu777/Todo1.git`
 
-3.Create Java Project on Eclipse.
+3. Create Java Project on Eclipse.
 
-4.On the project, import Todo1 from local repository cloned above. 
+4. On the project, import Todo1 from local repository cloned above. 
 
-5.Build the project.
+5. Build the project.
 
 # License
 This software is released under the MIT License, see LICENSE.
