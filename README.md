@@ -1,11 +1,11 @@
 # Todo1
-This application is a sample to practice Java programing.  
+This application is a sample to practice Java programming.  
 It is a task management application.  
 I created and improved it by referring to Reference book below.
 
 # Usage
 1. Install eclipse from following website (version:4.6 Neon):  
-*http://mergedoc.osdn.jp*
+http://mergedoc.osdn.jp
 
 2. Clone application:
 `$ git clone https://github.com/nomu777/Todo1.git`
