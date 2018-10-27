@@ -8,7 +8,7 @@ I created and improved it by referring to Reference book below.
 http://mergedoc.osdn.jp
 
 2. Clone application:  
-* `$ git clone https://github.com/nomu777/Todo1.git`
+`$ git clone https://github.com/nomu777/Todo1.git`
 
 3. Create Java Project on Eclipse.
 
